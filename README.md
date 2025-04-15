@@ -54,3 +54,10 @@ Flipper Zero — это портативное устройство, спосо�
 ## 📜 Лицензия
 
 Этот проект распространяется под лицензией MIT.
+
+
+---
+
+### 🔎 Ключевые слова для поиска
+
+flipper zero, flipper, flipper zero hacks, flipper zero tools, flipper zero scripts, flipper zero badusb, flipper zero rfid, flipper zero nfc, flipper zero ir, flipper zero sub-ghz, flipper zero payloads, flipper zero collection, flipper zero база, флиппер зеро, флиппер, флиппер зеро хаки, флиппер зеро скрипты, флиппер зеро полезное, flipper zero repository, flipper zero github, flipper zero unlock, flipper zero mods, flipper zero русская база, flipper zero взлом, flipper zero инструменты, flipper zero community, flipper zero update, flipper zero файлы, flipper zero утилиты, flipper zero расширение, flipper zero flasher, flipper zero firmware
