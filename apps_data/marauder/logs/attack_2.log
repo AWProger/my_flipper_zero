@@ -1,0 +1,6 @@
+#attack -t deauth
+Sending to broadcast...
+You don't have any targets selected. Use select
+> #stopscan
+0
+Stopping WiFi tran/recv

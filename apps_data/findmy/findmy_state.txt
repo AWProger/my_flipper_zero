@@ -1,0 +1,9 @@
+Filetype: FindMy Flipper State
+Version: 1
+beacon_active: false
+broadcast_interval: 4
+transmit_power: 6
+tag_type: 0
+show_mac: false
+mac: 66 55 44 33 22 11
+data: 1E FF 4C 00 12 19 50 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00

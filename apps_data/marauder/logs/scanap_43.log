@@ -1,0 +1,57 @@
+#scanap
+Starting AP scan. Stop with stopscan
+Clearing APs...0
+Successfully set AP MAC: 3C:8A:1F:A1:9B:C1
+> RSSI: -94 Ch: 3 BSSID: 10:a3:b8:e2:0f:f9 ESSID: RT-WiFi-0FF8 
+Beacon: 11 14 1 100488
+RSSI: -75 Ch: 3 BSSID: a0:cf:f5:ca:63:34 ESSID: MTS_GPON_7F48 
+Beacon: 31 1C 2 100304
+RSSI: -92 Ch: 5 BSSID: 08:5a:11:69:e1:ab ESSID: 2_4G_MegaFon_FR1000-E1A9 
+Beacon: 11 14 3 99468
+RSSI: -90 Ch: 6 BSSID: 24:4b:fe:64:91:e0 ESSID: Home 
+Beacon: 11 04 4 99756
+RSSI: -97 Ch: 9 BSSID: 60:ce:86:9a:3e:a0 ESSID: MGTS_GPON_50E2 
+Beacon: 31 14 5 99600
+RSSI: -73 Ch: 10 BSSID: 60:63:4c:83:a3:12 ESSID: 2_4G_MegaFon_FR1000-A30F 
+Beacon: 11 04 6 98960
+RSSI: -85 Ch: 11 BSSID: 78:94:b4:d8:13:e5 ESSID: MGTS_GPON_1396 
+Beacon: 11 04 7 99124
+RSSI: -94 Ch: 1 BSSID: 3c:98:72:dd:35:4a ESSID: MGTS_GPON_6766 
+Beacon: 11 04 8 97860
+RSSI: -90 Ch: 1 BSSID: 40:b0:76:4e:e9:e8 ESSID: kogekehome 
+Beacon: 11 0C 9 98684
+RSSI: -96 Ch: 1 BSSID: 54:c2:50:b0:be:a9 ESSID: MTS_GPON_b0bea8 
+Beacon: 11 04 10 98376
+RSSI: -87 Ch: 6 BSSID: dc:f8:b9:e9:69:29 ESSID: MGTS_GPON_5332 
+Beacon: 11 1C 11 98240
+RSSI: -94 Ch: 10 BSSID: 54:c2:50:cf:c7:79 ESSID: MTS_GPON_cfc778 
+Beacon: 11 04 12 97648
+RSSI: -89 Ch: 11 BSSID: 3c:98:72:a1:1d:62 ESSID: MGTS_GPON_5746 
+Beacon: 11 04 13 97780
+RSSI: -92 Ch: 11 BSSID: 00:72:63:79:ee:d0 ESSID: netis 
+Beacon: 11 04 14 97564
+RSSI: -96 Ch: 1 BSSID: 00:24:8c:63:27:f0 ESSID: ELENA_NET 
+Beacon: 11 04 15 97528
+RSSI: -94 Ch: 2 BSSID: 94:04:9c:59:92:44 ESSID: MGTS_108 
+Beacon: 11 14 16 97188
+RSSI: -94 Ch: 2 BSSID: 52:ff:20:5c:3d:f4 ESSID: Keenetic-7748 
+Beacon: 11 1C 17 96256
+RSSI: -94 Ch: 2 BSSID: 52:ff:20:9c:3d:f4 ESSID:  52:ff:20:9c:3d:f4 
+Beacon: 11 04 18 96548
+RSSI: -94 Ch: 9 BSSID: 52:ff:20:7d:14:de ESSID:  52:ff:20:7d:14:de 
+Beacon: 11 04 19 96412
+RSSI: -97 Ch: 9 BSSID: 50:ff:20:4d:14:de ESSID: we watch 
+Beacon: 11 1C 20 96004
+RSSI: -95 Ch: 4 BSSID: 08:9a:c7:e7:88:6e ESSID: MTS_GPON_AD0E 
+Beacon: 31 1C 21 96044
+RSSI: -98 Ch: 11 BSSID: e4:ca:12:88:f2:8c ESSID: MGTS_GPON_ED06 
+Beacon: 31 04 22 95856
+RSSI: -96 Ch: 1 BSSID: be:4b:d3:66:c5:2e ESSID: Galaxy A1262B8 
+Beacon: 11 04 23 95436
+RSSI: -93 Ch: 6 BSSID: 92:ef:0c:4f:67:de ESSID: Mihan's Galaxy A23 
+Beacon: 11 04 24 95316
+RSSI: -87 Ch: 1 BSSID: 34:75:63:5b:1f:3d ESSID: 70mai_d06_1f3d 
+Beacon: 31 00 25 95244
+#stopscan
+0
+Stopping WiFi tran/recv

@@ -1,0 +1,8 @@
+Filetype: Flipper Application Installation Manifest
+Version: 1
+Full Name: Temp sensors reader
+Icon: iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAATUlEQVR4nIWPQQ7AMAjDnP7/z94p01ZRlUskhA1EBSCJAGoYanVIjZoCX/gd3JtH47SyYPNoLNg8GvcKMN5WsI+um+23+vYxwJpsU+8ByKk1CZq4i2IAAAAASUVORK5CYII=
+Version Build API: 79.2
+UID: 649eb4ebf8b120fa14e8b834
+Version UID: 6669d09cf8e935d566f59fdc
+Path: /ext/apps/GPIO/unitemp.fap

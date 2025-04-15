@@ -1,0 +1,8 @@
+Filetype: Flipper Application Installation Manifest
+Version: 1
+Full Name: USB Consumer Control
+Icon: iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAATUlEQVR4nI2QSw4AIQhD+8jc/8p1pSHVibKD9Au29TKVB8DAxq4EXRUnyDa2SWL1ZQJOLkh6avN1JcBdtceptMtCSyT/+Jd5++OpkCQNcdMwDwkJovAAAAAASUVORK5CYII=
+Version Build API: 86.0
+UID: 655c3f686f38f6865c9e3d8e
+Version UID: 655c3f686f38f6865c9e3d97
+Path: /ext/apps/USB/usb_ccb.fap

@@ -1,0 +1,82 @@
+essfully set AP MAC: D8:BC:38:FA:B2:3D
+Successfully set STA MAC: D8:BC:38:FA:B2:3C
+Failed to mount SD Card
+SD Card NOT Supported
+Checking for battery monitors...
+GPS Not Found
+0
+CLI Ready
+
+              @@@@@@                        
+              @@@@@@@@                      
+              @@@@@@@@@@@                   
+             @@@@@@  @@@@@@                 
+          @@@@@@@      @@@@@@@              
+        @@@@@@            @@@@@@            
+     @@@@@@@                @@@@@@@         
+   @@@@@@                      @@@@@@       
+@@@@@@@              @@@@@@@@@@@@@@@@       
+@@@@@                 @@@@@@@@@@@@@@@       
+@@@@@                   @@@@@@@             
+@@@@@                      @@@@@@           
+@@@@@@                       @@@@@@@        
+  @@@@@@                        @@@@@@@@@@@@
+    @@@@@@@                          @@@@@@ 
+       @@@@@@                     @@@@@@    
+         @@@@@@@                @@@@@@      
+            @@@@@@           @@@@@@         
+              @@@@@@@      @@@@@@           
+                 @@@@@@ @@@@@@              
+                   @@@@@@@@@                
+                      @@@@@@                
+                        @@@@                
+
+
+
+
+--------------------------------
+
+         ESP32 Marauder      
+
+            v1.4.2
+
+       By: justcallmekoko
+
+--------------------------------
+
+
+> #scanap
+Starting AP scan. Stop with stopscan
+Clearing APs...0
+Successfully set AP MAC: D8:BC:38:FA:B2:3D
+> RSSI: -67 Ch: 2 BSSID: 78:b2:13:c4:8b:10 ESSID: MGTS_GPON_B52E 
+Beacon: 31 14 1 100512
+RSSI: -85 Ch: 3 BSSID: 10:a3:b8:e2:0f:f9 ESSID: RT-WiFi-0FF8 
+Beacon: 11 14 2 100264
+RSSI: -73 Ch: 4 BSSID: a0:cf:f5:ca:63:34 ESSID: MTS_GPON_7F48 
+Beacon: 31 1C 3 100084
+RSSI: -71 Ch: 5 BSSID: dc:f8:b9:e9:69:29 ESSID: MGTS_GPON_5332 
+Beacon: 11 1C 4 99888
+RSSI: -87 Ch: 6 BSSID: 24:4b:fe:64:91:e0 ESSID: Home 
+Beacon: 11 04 5 99584
+RSSI: -87 Ch: 9 BSSID: 60:ce:86:9a:3e:a0 ESSID: MGTS_GPON_50E2 
+Beacon: 31 14 6 99436
+RSSI: -88 Ch: 9 BSSID: 08:5a:11:69:e1:ab ESSID: 2_4G_MegaFon_FR1000-E1A9 
+Beacon: 11 14 7 99116
+RSSI: -61 Ch: 10 BSSID: 60:63:4c:83:a3:12 ESSID: 2_4G_MegaFon_FR1000-A30F 
+Beacon: 11 04 8 98528
+RSSI: -96 Ch: 10 BSSID: 54:c2:50:cf:c7:79 ESSID: MTS_GPON_cfc778 
+Beacon: 11 04 9 98052
+RSSI: -90 Ch: 11 BSSID: 3c:98:72:a1:1d:62 ESSID: MGTS_GPON_5746 
+Beacon: 11 04 10 98456
+RSSI: -86 Ch: 11 BSSID: 78:94:b4:d8:13:e5 ESSID: MGTS_GPON_1396 
+Beacon: 11 04 11 98240
+RSSI: -85 Ch: 1 BSSID: 40:b0:76:4e:e9:e8 ESSID: kogekehome 
+Beacon: 11 0C 12 98040
+RSSI: -81 Ch: 1 BSSID: 3c:98:72:dd:35:4a ESSID: MGTS_GPON_6766 
+Beacon: 11 04 13 97840
+RSSI: -91 Ch: 11 BSSID: 00:72:63:79:ee:d0 ESSID: netis 
+Beacon: 11 04 14 97616
+#stopscan
+0
+Stopping WiFi tran/recv

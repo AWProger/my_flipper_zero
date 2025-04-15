@@ -1,0 +1,8 @@
+Filetype: Flipper Application Installation Manifest
+Version: 1
+Full Name: Longwave Clock
+Icon: iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAVElEQVR4nI2P0QrAMAgDL2X//8u3h+KQYmFCoZhL1KhUJRFADa2SiO639fs/wD2l9VOjS5hMAKugEtV00wd2qCee8DqdUxrAcyZNEMCaxkzr/L76BQVCUe80jwxrAAAAAElFTkSuQmCC
+Version Build API: 86.0
+UID: 67a33a7783aa88302bc91b66
+Version UID: 67a33a7783aa88302bc91b71
+Path: /ext/apps/GPIO/longwave_clock.fap

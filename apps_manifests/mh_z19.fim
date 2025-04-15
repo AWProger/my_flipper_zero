@@ -1,0 +1,8 @@
+Filetype: Flipper Application Installation Manifest
+Version: 1
+Full Name: [MH-Z19] CO2 sensor
+Icon: iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAS0lEQVR4nJWQQQrAMAgEndL/f3l6ScSkKVhBEHfURdToxBURASQNOHMBAVWqoHLc+CUewZbHX+Bu/hXjPapZ15y9e1CUwazrlbbHBy+RLAWgwmYLAAAAAElFTkSuQmCC
+Version Build API: 86.0
+UID: 64e8b49ec3580ee96b18cb5d
+Version UID: 64e8b49ec3580ee96b18cb6a
+Path: /ext/apps/GPIO/mh_z19.fap

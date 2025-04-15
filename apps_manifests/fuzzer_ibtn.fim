@@ -1,0 +1,8 @@
+Filetype: Flipper Application Installation Manifest
+Version: 1
+Full Name: iButton Fuzzer
+Icon: iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAS0lEQVR4nI2PwQ3AMAgD7Yj9V748Iqokhar+gQ8wBtTJ9mOOLwgw4BZMaO+9wBvKOu4sFSRJXt55pto8diM3/8rYKapslQwcz3RDExjwNw9MFPgZAAAAAElFTkSuQmCC
+Version Build API: 86.0
+UID: 64974bb6577d519190ede620
+Version UID: 66705c5ab4ce289ac47422b6
+Path: /ext/apps/iButton/fuzzer_ibtn.fap

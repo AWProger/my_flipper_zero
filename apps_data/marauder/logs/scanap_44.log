@@ -1,0 +1,31 @@
+#scanap
+Starting AP scan. Stop with stopscan
+Clearing APs...25
+Successfully set AP MAC: 3C:8A:1F:A1:9B:C1
+> RSSI: -88 Ch: 1 BSSID: 3c:98:72:dd:35:4a ESSID: MGTS_GPON_6766 
+Beacon: 11 04 1 96720
+RSSI: -58 Ch: 1 BSSID: 52:ba:9a:cd:f9:ef ESSID: Порно 
+Beacon: 31 14 2 96528
+RSSI: -91 Ch: 1 BSSID: 34:75:63:5b:1f:3d ESSID: 70mai_d06_1f3d 
+Beacon: 31 00 3 96392
+RSSI: -88 Ch: 3 BSSID: 10:a3:b8:e2:0f:f9 ESSID: RT-WiFi-0FF8 
+Beacon: 11 14 4 96048
+RSSI: -89 Ch: 5 BSSID: 08:5a:11:69:e1:ab ESSID: 2_4G_MegaFon_FR1000-E1A9 
+Beacon: 11 14 5 95780
+RSSI: -84 Ch: 5 BSSID: dc:f8:b9:e9:69:29 ESSID: MGTS_GPON_5332 
+Beacon: 11 1C 6 95616
+RSSI: -90 Ch: 6 BSSID: 24:4b:fe:64:91:e0 ESSID: Home 
+Beacon: 11 04 7 94276
+RSSI: -73 Ch: 6 BSSID: a0:cf:f5:ca:63:34 ESSID: MTS_GPON_7F48 
+Beacon: 31 1C 8 95188
+RSSI: -92 Ch: 9 BSSID: 60:ce:86:9a:3e:a0 ESSID: MGTS_GPON_50E2 
+Beacon: 31 14 9 94948
+RSSI: -60 Ch: 10 BSSID: 60:63:4c:83:a3:12 ESSID: 2_4G_MegaFon_FR1000-A30F 
+Beacon: 11 04 10 94596
+RSSI: -96 Ch: 11 BSSID: 3c:98:72:a1:1d:62 ESSID: MGTS_GPON_5746 
+Beacon: 11 04 11 94464
+RSSI: -90 Ch: 11 BSSID: 78:94:b4:d8:13:e5 ESSID: MGTS_GPON_1396 
+Beacon: 11 04 12 94272
+#stopscan
+0
+Stopping WiFi tran/recv

@@ -1,0 +1,5 @@
+#update -s
+SD card is not connected. Cannot perform SD Update
+> #stopscan
+0
+Stopping WiFi tran/recv

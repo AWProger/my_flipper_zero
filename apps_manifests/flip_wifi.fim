@@ -1,0 +1,8 @@
+Filetype: Flipper Application Installation Manifest
+Version: 1
+Full Name: FlipWiFi
+Icon: iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAT0lEQVR4nI2PQQqAMBADM/7/z+NBt7YqbQtLKCRDgprdp5q6+iexTs0xSdNrMwLTDtz4D60PqrA7ZiBWn3cVFS59DAMFHMashjTjH7HCpSesDz7tS0nGrQAAAABJRU5ErkJggg==
+Version Build API: 86.0
+UID: 67290f9eb81fc7da553f5f81
+Version UID: 67e9830e83aa88302bd065b1
+Path: /ext/apps/GPIO/flip_wifi.fap

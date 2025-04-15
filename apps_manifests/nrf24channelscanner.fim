@@ -1,0 +1,8 @@
+Filetype: Flipper Application Installation Manifest
+Version: 1
+Full Name: [NRF24] Channel scanner
+Icon: iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAPUlEQVR4nK2QMQoAIAzEcuL/v3wOUtAi0qGZbggETrYBkLRHwrYABDyFzKhIlxiJvIP+9Pzmjif606oevgDsChsF+v13tAAAAABJRU5ErkJggg==
+Version Build API: 79.2
+UID: 64f057e313043e71ea766866
+Version UID: 64f057e313043e71ea76686f
+Path: /ext/apps/GPIO/nrf24channelscanner.fap

@@ -1,0 +1,7 @@
+#evilportal -c start -serial
+Starting Evil Portal. Stop with stopscan
+Could not find /ap.config.txt. Use stopscan...
+> #stopscan
+E (181881) wifi_init: Failed to deinit Wi-Fi driver (0x3001)
+0
+Stopping WiFi tran/recv

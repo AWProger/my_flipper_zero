@@ -1,0 +1,8 @@
+Filetype: Flipper Application Installation Manifest
+Version: 1
+Full Name: GPIO Explorer
+Icon: iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAARElEQVR4nJ2QUQrAMAhDX4r3v3L2M8EK3aQBEUN8oALMQAFgW18hSX5ze6+VXuRWUk/01fF1rt5iqOhGJ98T/44Rw4c/rvMmBy2/y5gAAAAASUVORK5CYII=
+Version Build API: 86.0
+UID: 67a33a7666f3bd4d6ce499e7
+Version UID: 67a33a7666f3bd4d6ce499f4
+Path: /ext/apps/GPIO/gpio_explorer_app.fap

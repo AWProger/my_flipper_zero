@@ -1,0 +1,6 @@
+#evilportal -c sethtmlstr -serial
+Setting HTML from serial...
+html set
+> #stopscan
+0
+Stopping WiFi tran/recv

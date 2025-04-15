@@ -1,0 +1,9 @@
+#scanap
+Starting AP scan. Stop with stopscan
+Clearing APs...0
+Successfully set AP MAC: 3C:8A:1F:A1:9B:C1
+> RSSI: -87 Ch: 3 BSSID: 78:b2:13:c4:8b:10 ESSID: MGTS_GPON_B52E 
+Beacon: 31 14 1 100512
+#stopscan
+0
+Stopping WiFi tran/recv

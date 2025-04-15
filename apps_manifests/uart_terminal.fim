@@ -1,0 +1,8 @@
+Filetype: Flipper Application Installation Manifest
+Version: 1
+Full Name: UART Terminal
+Icon: iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAASElEQVR4nI3QQQrAMAgF0T+h97/ydFFajFCJGxGfKKIGMEOo8GSZIOCqxYQ/qDLhVYsJbxD4vXedoCS56tp3oJ+zwd7owenDb0uILg3CLfAEAAAAAElFTkSuQmCC
+Version Build API: 86.0
+UID: 64a7e9a444f416a1559b806f
+Version UID: 66705c66a914c73f0ecef1a7
+Path: /ext/apps/GPIO/uart_terminal.fap
